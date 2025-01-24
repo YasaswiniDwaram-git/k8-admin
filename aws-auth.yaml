@@ -12,7 +12,7 @@ data:
       userarn: arn:aws:iam::084375546724:user/Ramesh
       username: Ramesh
     - groups:
-      - expense-admin
+      - expense-cadmin
       userarn: arn:aws:iam::084375546724:user/satya
       username: satya
 kind: ConfigMap
